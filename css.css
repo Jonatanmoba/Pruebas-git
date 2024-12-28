@@ -6,5 +6,6 @@ div{
 
     & div {
         background-color: aquamarine;
+        color: red;
     }
 }
