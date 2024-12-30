@@ -3,6 +3,8 @@ body{
 }
 div{
     background-color: black;
+    display:flex;
+    
 
     & div {
         background-color: aquamarine;
