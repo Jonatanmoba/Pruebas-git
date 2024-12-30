@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+div{
+    background-color: black;
+
+    & div {
+        background-color: aquamarine;
+        color: red;
+    }
+}
